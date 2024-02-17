@@ -1,5 +1,10 @@
+# deprecated（废弃）
+
+该项目已废弃，请使用：[jretty-server](https://github.com/jretty-org/jretty-server)
+this project is deprecated, please use: jretty-server
+
 # i-jetty
-Android下可用的Java Web Server（base eclipse jetty and google i-jetty）
+Android下可用的Java Web Server（base eclipse jetty）
 
 Can run at Android 1.6 ~ 9.
 
