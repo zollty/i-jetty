@@ -8,6 +8,8 @@ Android下可用的Java Web Server（base eclipse jetty）
 
 Can run at Android 1.6 ~ 9.
 
+用法参见：<a href="http://blog.zollty.com/b/archive/run-tomcat-jetty-java-web-container-on-android-system.html" target="_blank">Android下运行Tomcat、Jetty等Java Web服务器</a>
+
 Building from Source
 =====================
 
